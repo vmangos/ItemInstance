@@ -1,2 +1,2 @@
-# ItemInstance
-Tool to convert the item_instance table from a mangoszero database
+# Item Instance Converter
+Tool to convert mangoszero's item_instance table to vmangos format.
